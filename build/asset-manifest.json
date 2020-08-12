@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/css/main.59c9e70e.chunk.css",
+    "main.js": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/main.628f5045.chunk.js",
+    "main.js.map": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/main.628f5045.chunk.js.map",
+    "runtime-main.js": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/runtime-main.b6af9ad6.js",
+    "runtime-main.js.map": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/runtime-main.b6af9ad6.js.map",
+    "static/js/2.6e9c3244.chunk.js": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/2.6e9c3244.chunk.js",
+    "static/js/2.6e9c3244.chunk.js.map": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/2.6e9c3244.chunk.js.map",
+    "index.html": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/index.html",
+    "precache-manifest.8bce3fecb5f9573e586cef50b34264af.js": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/precache-manifest.8bce3fecb5f9573e586cef50b34264af.js",
+    "service-worker.js": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/service-worker.js",
+    "static/css/main.59c9e70e.chunk.css.map": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/css/main.59c9e70e.chunk.css.map",
+    "static/js/2.6e9c3244.chunk.js.LICENSE.txt": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/js/2.6e9c3244.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/1.cb88fb01.jpg",
+    "static/media/2.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/2.29c23ad1.jpg",
+    "static/media/3.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/3.61d29bb1.jpg",
+    "static/media/4.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/4.7eef6399.jpg",
+    "static/media/style.css": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/weathericons-regular-webfont.ed0943f2.svg",
+    "static/media/img1.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img1.f098478b.jpg",
+    "static/media/img2.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img2.901c0790.jpg",
+    "static/media/img3.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img3.ace469c9.jpg",
+    "static/media/img4.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img4.e571ec7b.jpg",
+    "static/media/img5.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img5.9ed5c940.jpg",
+    "static/media/img6.jpg": "/demos/free-admin-templates/materialpro-reactadmin-lite/main/static/media/img6.5a2ca107.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6af9ad6.js",
+    "static/js/2.6e9c3244.chunk.js",
+    "static/css/main.59c9e70e.chunk.css",
+    "static/js/main.628f5045.chunk.js"
+  ]
+}
